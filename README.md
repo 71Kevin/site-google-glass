@@ -1,4 +1,4 @@
-# Site-Google-Glass
+# site-google-glass
 
 Site feito através do curso do professor Gustavo Guanabara do canal CursoEmVideo.
 
